@@ -18,6 +18,7 @@ Add the dependency
 ```Gradle
 dependencies {
     implementation 'com.github.danimahardhika.candybar-library:core:3.5.0-b4'
+    implementation 'com.github.unmaskedfalesh.candybar-library:core:3.5.0-b4'
 }
 ```
 Or use a snapshot
